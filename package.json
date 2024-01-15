@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "nilesh sharma",
+	"description": "Learn fcc backend development",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -12,5 +13,12 @@
 		"type": "git",
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
-	"author": "nilesh sharma"
+	"keywords": [ "freecodecamp", "Learn", "backend dev", "APIs" ],
+	"license": "GPL",
+	"version": "1.0.0",
+	"dependencies": {
+  		"package-name": "version"
+
+	}
+
 }
